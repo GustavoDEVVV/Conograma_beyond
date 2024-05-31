@@ -1,0 +1,21 @@
+body {
+    background-color: rebeccapurple;
+}
+
+.titulo h1 {
+    color: orange;
+}
+
+h1 {
+    color: orange;
+    font-family: "Reddit Sans", sans-serif;
+}
+
+.texto1 {
+    color: aliceblue;
+    font-family: "Raleway", sans-serif;
+}
+
+.v-text-field {
+    background-color: none;
+}

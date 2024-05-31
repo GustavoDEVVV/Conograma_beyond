@@ -1,0 +1,10 @@
+await addDoc(collection(db, 'tarefas'), this.novaTarefa)
+import {
+    collection,
+    // getDocs,
+    addDoc,
+    // deleteDoc,
+    // doc
+} from 'firebase/firestore';
+
+import { db } from '@/firebase/firebase'
