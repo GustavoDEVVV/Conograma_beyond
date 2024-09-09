@@ -8,6 +8,6 @@ Um array é utilizado para salvar as mensagens.
 
 Como utilizar o sistema?
 Ao acessar o app, você não terá acesso às funcionalidades até se cadastrar.
-Para isso, crie uma conta e clique em "Cadastrar".
+Para isso, crie uma conta e clique em "Criar conta".
 Uma vez cadastrado, não será necessário repetir o processo. Basta fazer login com a conta criada para acessar o aplicativo completo.
 Para sair do sistema, clique no botão "Sign Out", e você será desconectado da aplicação.
